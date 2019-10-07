@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="poder-entrar-a-un-sistema-de-login-de-prueba;iniciar-sesion-en-fccpanama" tests="2" failures="1" skipped="0">
+        <properties>
+            <property name="URI" value="/home/joel/Escritorio/TestingPlanilla-UTP/features/login.feature">
+            </property>
+        </properties>
+        <testcase name="When Entrar al Sitio con  &quot;soporte@scarletbytes.com&quot; &quot;Panama2018&quot;" classname="poder-entrar-a-un-sistema-de-login-de-prueba;iniciar-sesion-en-fccpanama" time="9.470528899">
+        </testcase>
+        <testcase name="Then Deberia Entrar al Dashboard" classname="poder-entrar-a-un-sistema-de-login-de-prueba;iniciar-sesion-en-fccpanama" time="15.016559201">
+            <failure message="function timed out after 15000 milliseconds">function timed out after 15000 milliseconds</failure>
+        </testcase>
+    </testsuite>
+</testsuites>
